@@ -1,4 +1,4 @@
-#Feature_Engineering
+
 Have you ever wondered how well can you be feature engineered your data? I have an interesting example for you.
 Starting from the need of finding some nearby potential Amenities for my real estate data, I came to know about OSM (Open Street Map). I discovered how many different things are possible to find with OSM and I just lost in the geospatial endless possibilities. 
 
